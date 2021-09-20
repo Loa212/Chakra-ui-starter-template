@@ -1,10 +1,6 @@
-# ⚡ Chakra-ui STARTER TEMPLATE ⚡
-Chakra UI is a simple, modular and accessible component library that gives you the building blocks you need to build your React applications.
-
-Visit [chakra-ui](https://chakra-ui.com/) for more info.
 
 ---
-## Installation 🛠️
+## Installation
 
 ### step 1
 
@@ -31,10 +27,18 @@ To lauch the application run:
 npm start
 ```
 
+---
+
+## About this repo
+This is a starter template using [React.js](https://reactjs.org/) and [Tailwindcss](https://tailwindcss.com/)
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
+
+## What's next
+* Install [material-icons](https://fonts.google.com/icons).
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
